@@ -1,0 +1,25 @@
+body {
+    background-image: url('./assets/background.jpg');
+    font-family: 'Pangolin', cursive;
+}
+#title {
+    font-size: 4em;
+    align-self: center;
+    margin-left:150;
+}
+#description {
+    font-size: 2em;
+    align-self: center;
+    margin-left: 150;
+}
+#alphabets {
+    width: 40%;
+    padding: 0.3em;
+    flex:2;
+    margin-left: 150;
+}
+#blanks{ 
+    text-decoration: underline;
+
+}
+
